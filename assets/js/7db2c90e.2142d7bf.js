@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdotnetarch=self.webpackChunkdotnetarch||[]).push([[607],{2979:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/dotnetarch/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
